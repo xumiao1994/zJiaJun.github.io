@@ -60,6 +60,7 @@ nav:
     url: /links.html
 
 #Author config
+<!--
 author:
     name: zhujiajun
     email: zhujiajun.me@gmail.com
@@ -107,7 +108,7 @@ customLinks:
     - text: Java By Nataraj
       url: http://javabynataraj.blogspot.in/
     message: About Java
-
+-->
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
